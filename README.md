@@ -1,1 +1,1 @@
-# demo-repo
+# Sample SE application/script for demo
